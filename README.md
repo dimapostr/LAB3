@@ -1,7 +1,7 @@
-# Department Web Application
+# Orgtechnika Web Application
 
 ## Опис проекту
-Веб-застосунок для управління інформацією оргтехніки, розроблений з використанням Java Spring Framework.
+Веб-застосунок для управління продажами оргтехніки, розроблений з використанням Java Spring Framework.
 
 ## Технології
 - Java
